@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.pink_color{
+    color: #FF1771;
+}
+.bg-body-tertiary{
+    background-color: white !important;
+}
+.container_bg{
+    background-image: url('images/bg-2.png');
+    background-repeat: no-repeat;
+    background-size: 120px;
+    background-position: left bottom;
+}
+.carousel_bg{
+    background-image: url('images/bg-1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.custom_btn{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 30px;
+    color: white;
+    background-color: black;
+}
+.phone_laptop_card{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.phone_laptop_card p{
+    font-size: 14px;
+    color: darkgray;
+}
+.phone_laptop_card a{
+    text-decoration: none;
+    border: none;
+    color: #FF9F33;
+}
+.phone_laptop_card img{
+    width: 300px;
+}
+.phone_laptop_card h4{
+    margin-bottom: 30px;
+}
+.card{
+    border: none;
+    box-shadow: 3px 3px 10px gray;
+    padding-top: 25px;
+    --bs-card-cap-bg: none;
+}
+.card-footer{
+    border: none;
+}
+.categories{
+    margin-top: 100px;
+}
+.categories h4{
+    margin-bottom: 50px;
+    padding-top: 20px;
+}
+.bag_perfume_shoe{
+    width: 220px;
+    height: 250px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    background-color: white;
+    box-shadow: 5px 5px 30px lightgray;
+}
+figcaption{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
